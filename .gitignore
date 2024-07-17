@@ -34,4 +34,5 @@ build/
 ###Docker####
 */mongodb/data/journal/
 # Ignorer le dossier docker
-docker/
+docker
+
